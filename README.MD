@@ -1,5 +1,11 @@
 # Podcast Gyűjtemény
 
+Gyakran megesik velem, hogy podcastokat hallgatok munka közben, amikor utazok vagy akár szabadidőmbe. Úgy gondolom, hogy nagyon sok podcast lehetőséget ad új információkhoz jutni és ezek által fejlődni.
+
+Úgy döntöttem készítek egy listát olyan podcastokról amelyek valamilyen módon kapcsolódnak a szoftverfejlesztéshez.
+
+Ha ismersz olyan szoftverfejlesztéssel kapcsolatos podcastot ami még nincs rajta a listán, egy **pull request** segítségével megoszthatod vagy elküldheted a **kulcsarrudolf@gmail.com** email címre. Köszönöm!
+
 |  #  | Név                                | Nyelv | Link                                                                 |
 | :-: | ---------------------------------- | :---: | :------------------------------------------------------------------- |
 |  1  | Letscode.hu                        |  HU   | https://www.letscode.hu/                                             |
