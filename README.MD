@@ -17,3 +17,5 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 |  7  | Syntax.fm                  |  EN  | https://syntax.fm/                          |
 |  8  | CodePen Radio              |  EN  | https://blog.codepen.io/radio/              |
 |  9  | ShopTalk Show              |  EN  | https://shoptalkshow.com/                   |
+
+[**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
