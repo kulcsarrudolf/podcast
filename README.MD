@@ -1,10 +1,10 @@
-# Podcast Gyűjtemény
+# Podcast Collection
 
-Gyakran megesik velem, hogy podcastokat hallgatok munka közben, amikor utazok vagy akár szabadidőmbe. Úgy gondolom, hogy nagyon sok podcast lehetőséget ad új információkhoz jutni és ezek által fejlődni.
+I like podcasts because I can listen to it when I work, when I travel, when I drive or even in my free time. It is a good opportunity to gain new information and grow in any domain.
 
-Úgy döntöttem készítek egy listát olyan podcastokról amelyek valamilyen módon kapcsolódnak a szoftverfejlesztéshez.
+I decided to create a list with podcasts related to software development.
 
-Ha ismersz olyan szoftverfejlesztéssel kapcsolatos podcastot ami még nincs rajta a listán, egy **pull request** segítségével megoszthatod vagy elküldheted a **kulcsarrudolf@gmail.com** email címre. Köszönöm!
+If your favorite podcast is not on the list or if you have any suggestion, feel free to create a **pull request** or send me an email to **kulcsarrudolf@gmail.com**. Thank you!
 
 |  #  | Név                                | Nyelv | Link                                                                 |
 | :-: | :--------------------------------- | :---: | :------------------------------------------------------------------- |
