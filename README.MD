@@ -11,11 +11,10 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 |  1  | Developer Tea              |  EN  | https://spec.fm/podcasts/developer-tea      |
 |  2  | Soft Skills Engineering    |  EN  | https://softskills.audio/                   |
 |  3  | Simple Programmer          |  EN  | https://simpleprogrammer.libsyn.com/podcast |
-|  4  | Soft Skills Engineering    |  EN  | https://softskills.audio/                   |
-|  5  | Complete developer podcast |  EN  | https://completedeveloperpodcast.com/       |
-|  6  | Laracasts snippet          |  EN  | https://laracasts.com/podcast               |
-|  7  | Syntax.fm                  |  EN  | https://syntax.fm/                          |
-|  8  | CodePen Radio              |  EN  | https://blog.codepen.io/radio/              |
-|  9  | ShopTalk Show              |  EN  | https://shoptalkshow.com/                   |
+|  4  | Complete developer podcast |  EN  | https://completedeveloperpodcast.com/       |
+|  5  | Laracasts snippet          |  EN  | https://laracasts.com/podcast               |
+|  6  | Syntax.fm                  |  EN  | https://syntax.fm/                          |
+|  7  | CodePen Radio              |  EN  | https://blog.codepen.io/radio/              |
+|  8  | ShopTalk Show              |  EN  | https://shoptalkshow.com/                   |
 
 [**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
