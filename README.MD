@@ -17,5 +17,8 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 |  7  | CodePen Radio              |  EN  | https://blog.codepen.io/radio/                              |
 |  8  | ShopTalk Show              |  EN  | https://shoptalkshow.com/                                   |
 |  9  | No Progress                |  EN  | https://podcasts.apple.com/podcast/no-progress/id1515681912 |
+| 10  | Bike Shed                  |  EN  | https://www.bikeshed.fm/                                    |
+| 11  | Changelog                  |  EN  | https://changelog.com/master                                |
+| 12  | Changelog                  |  EN  | https://changelog.com/master                                |
 
 [**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
