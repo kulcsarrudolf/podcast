@@ -19,5 +19,6 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 |  9  | No Progress                |  EN  | https://podcasts.apple.com/podcast/no-progress/id1515681912 |
 | 10  | Bike Shed                  |  EN  | https://www.bikeshed.fm/                                    |
 | 11  | Changelog                  |  EN  | https://changelog.com/master                                |
+| 12  | Yegor Bugayenko            |  EN  | https://soundcloud.com/yegor256                             |
 
 [**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
