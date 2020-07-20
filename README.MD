@@ -8,17 +8,17 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 
 |  #  | Name                       | Lang | Link                                                        |
 | :-: | :------------------------- | :--: | :---------------------------------------------------------- |
-|  1  | Developer Tea              |  EN  | https://spec.fm/podcasts/developer-tea                      |
-|  2  | Soft Skills Engineering    |  EN  | https://softskills.audio/                                   |
+|  1  | Soft Skills Engineering    |  EN  | https://softskills.audio/                                   |
+|  2  | Yegor Bugayenko            |  EN  | https://soundcloud.com/yegor256                             |
 |  3  | Simple Programmer          |  EN  | https://simpleprogrammer.libsyn.com/podcast                 |
-|  4  | Complete developer podcast |  EN  | https://completedeveloperpodcast.com/                       |
-|  5  | Laracasts snippet          |  EN  | https://laracasts.com/podcast                               |
-|  6  | Syntax.fm                  |  EN  | https://syntax.fm/                                          |
-|  7  | CodePen Radio              |  EN  | https://blog.codepen.io/radio/                              |
-|  8  | ShopTalk Show              |  EN  | https://shoptalkshow.com/                                   |
-|  9  | No Progress                |  EN  | https://podcasts.apple.com/podcast/no-progress/id1515681912 |
-| 10  | Bike Shed                  |  EN  | https://www.bikeshed.fm/                                    |
-| 11  | Changelog                  |  EN  | https://changelog.com/master                                |
-| 12  | Yegor Bugayenko            |  EN  | https://soundcloud.com/yegor256                             |
+|  4  | Bike Shed                  |  EN  | https://www.bikeshed.fm/                                    |
+|  5  | Developer Tea              |  EN  | https://spec.fm/podcasts/developer-tea                      |
+|  6  | Complete developer podcast |  EN  | https://completedeveloperpodcast.com/                       |
+|  7  | Laracasts snippet          |  EN  | https://laracasts.com/podcast                               |
+|  8  | Syntax.fm                  |  EN  | https://syntax.fm/                                          |
+|  9  | CodePen Radio              |  EN  | https://blog.codepen.io/radio/                              |
+| 10  | ShopTalk Show              |  EN  | https://shoptalkshow.com/                                   |
+| 11  | No Progress                |  EN  | https://podcasts.apple.com/podcast/no-progress/id1515681912 |
+| 12  | Changelog                  |  EN  | https://changelog.com/master                                |
 
 [**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
