@@ -11,14 +11,15 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 |  1  | Soft Skills Engineering    |  EN  | https://softskills.audio/                                   |
 |  2  | Yegor Bugayenko            |  EN  | https://soundcloud.com/yegor256                             |
 |  3  | Simple Programmer          |  EN  | https://simpleprogrammer.libsyn.com/podcast                 |
-|  4  | Bike Shed                  |  EN  | https://www.bikeshed.fm/                                    |
-|  5  | Developer Tea              |  EN  | https://spec.fm/podcasts/developer-tea                      |
-|  6  | Complete developer podcast |  EN  | https://completedeveloperpodcast.com/                       |
-|  7  | Laracasts snippet          |  EN  | https://laracasts.com/podcast                               |
-|  8  | Syntax.fm                  |  EN  | https://syntax.fm/                                          |
-|  9  | CodePen Radio              |  EN  | https://blog.codepen.io/radio/                              |
-| 10  | ShopTalk Show              |  EN  | https://shoptalkshow.com/                                   |
-| 11  | No Progress                |  EN  | https://podcasts.apple.com/podcast/no-progress/id1515681912 |
-| 12  | Changelog                  |  EN  | https://changelog.com/master                                |
+|  4  | Pasztor Janos              |  EN  | https://pasztor.at/podcast/                                 |
+|  5  | Bike Shed                  |  EN  | https://www.bikeshed.fm/                                    |
+|  6  | Developer Tea              |  EN  | https://spec.fm/podcasts/developer-tea                      |
+|  7  | Complete developer podcast |  EN  | https://completedeveloperpodcast.com/                       |
+|  8  | Laracasts snippet          |  EN  | https://laracasts.com/podcast                               |
+|  9  | Syntax.fm                  |  EN  | https://syntax.fm/                                          |
+| 10  | CodePen Radio              |  EN  | https://blog.codepen.io/radio/                              |
+| 11  | ShopTalk Show              |  EN  | https://shoptalkshow.com/                                   |
+| 12  | No Progress                |  EN  | https://podcasts.apple.com/podcast/no-progress/id1515681912 |
+| 13  | Changelog                  |  EN  | https://changelog.com/master                                |
 
 [**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
