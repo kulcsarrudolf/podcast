@@ -21,5 +21,6 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | 11  | ShopTalk Show              |  EN  | https://shoptalkshow.com/                                   |
 | 12  | No Progress                |  EN  | https://podcasts.apple.com/podcast/no-progress/id1515681912 |
 | 13  | Changelog                  |  EN  | https://changelog.com/master                                |
+| 14  | The Art of Product         |  EN  | https://artofproductpodcast.com/                            |
 
 [**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
