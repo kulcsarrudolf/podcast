@@ -23,5 +23,6 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | 13  | No Progress                |  EN  | https://podcasts.apple.com/podcast/no-progress/id1515681912 |
 | 14  | Changelog                  |  EN  | https://changelog.com/master                                |
 | 15  | The Art of Product         |  EN  | https://artofproductpodcast.com/                            |
+| 16  | Front End Happy Hour       |  EN  | https://frontendhappyhour.com/                              |
 
 [**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
