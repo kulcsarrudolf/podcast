@@ -25,6 +25,14 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | 15  | The Art of Product         |  EN  | https://artofproductpodcast.com/                            |
 | 16  | Front End Happy Hour       |  EN  | https://frontendhappyhour.com/                              |
 | 17  | Chats with Kent            |  EN  | https://kentcdodds.com/chats-with-kent-podcast/             |
+| 18  | .Net Rocks                 |  EN  | https://www.dotnetrocks.com/                                |
+| 19  | Hanselminutes              |  EN  | https://hanselminutes.com/                                  |
+| 20  | Developer Tea              |  EN  | https://developertea.com                                    |
+| 21  | Merge Conflict             |  EN  | https://mergeconflict.fm                                    |
+| 22  | Code Newbie                |  EN  | https://codenewbie.org/podcast                              |
+| 23  | Knee Deep in Tech          |  EN  | https://kneedeepintech.com                                  |
+| 24  | Herding Code               |  EN  | https://herdingcode.com                                     |
+| 25  | Software Engineering Radio |  EN  | https://se-radio.net                                        |
 
 
 [**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
