@@ -14,7 +14,7 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 |  4  | Simple Programmer          |  EN  | https://simpleprogrammer.libsyn.com/podcast                 |
 |  5  | Pasztor Janos              |  EN  | https://pasztor.at/podcast/                                 |
 |  6  | Bike Shed                  |  EN  | https://www.bikeshed.fm/                                    |
-|  7  | Developer Tea              |  EN  | https://spec.fm/podcasts/developer-tea                      |
+|  7  | Developer Tea              |  EN  | https://developertea.com                      |
 |  8  | Complete developer podcast |  EN  | https://completedeveloperpodcast.com/                       |
 |  9  | Laracasts snippet          |  EN  | https://laracasts.com/podcast                               |
 | 10  | Syntax.fm                  |  EN  | https://syntax.fm/                                          |
@@ -27,12 +27,11 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | 17  | Chats with Kent            |  EN  | https://kentcdodds.com/chats-with-kent-podcast/             |
 | 18  | .Net Rocks                 |  EN  | https://www.dotnetrocks.com/                                |
 | 19  | Hanselminutes              |  EN  | https://hanselminutes.com/                                  |
-| 20  | Developer Tea              |  EN  | https://developertea.com                                    |
-| 21  | Merge Conflict             |  EN  | https://mergeconflict.fm                                    |
-| 22  | Code Newbie                |  EN  | https://codenewbie.org/podcast                              |
-| 23  | Knee Deep in Tech          |  EN  | https://kneedeepintech.com                                  |
-| 24  | Herding Code               |  EN  | https://herdingcode.com                                     |
-| 25  | Software Engineering Radio |  EN  | https://se-radio.net                                        |
+| 20  | Merge Conflict             |  EN  | https://mergeconflict.fm                                    |
+| 21  | Code Newbie                |  EN  | https://codenewbie.org/podcast                              |
+| 22  | Knee Deep in Tech          |  EN  | https://kneedeepintech.com                                  |
+| 23  | Herding Code               |  EN  | https://herdingcode.com                                     |
+| 24  | Software Engineering Radio |  EN  | https://se-radio.net                                        |
 
 
 [**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
