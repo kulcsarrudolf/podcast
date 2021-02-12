@@ -33,6 +33,7 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | 23  | Herding Code               |  EN  | https://herdingcode.com                                     |
 | 24  | Software Engineering Radio |  EN  | https://se-radio.net                                        |
 | 25  | Codurance Talks            |  EN  | https://www.codurance.com/publications/tag/podcasts         |
+| 26  | AskDeveloper Podcast       |  AR  | https://bit.ly/3aUu4rm                                      |
 
 
 [**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
