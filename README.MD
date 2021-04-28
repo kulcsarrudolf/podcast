@@ -16,7 +16,8 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 |  4  | Simple Programmer       |  EN  | https://simpleprogrammer.libsyn.com/podcast |
 |  5  | Pasztor Janos           |  EN  | https://pasztor.at/podcast/                 |
 |  6  | Bike Shed               |  EN  | https://www.bikeshed.fm/                    |
-|  6  | Stack Overflow Podcast  |  EN  | https://stackoverflow.blog/podcast/         |
+|  7  | Stack Overflow Podcast  |  EN  | https://stackoverflow.blog/podcast/         |
+|  7  | The Rabbit Hole         |  EN  | https://therabbithole.libsyn.com/           |
 
 ## Other podcasts
 
