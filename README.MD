@@ -17,7 +17,8 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 |  5  | Pasztor Janos           |  EN  | https://pasztor.at/podcast/                 |
 |  6  | Bike Shed               |  EN  | https://www.bikeshed.fm/                    |
 |  7  | Stack Overflow Podcast  |  EN  | https://stackoverflow.blog/podcast/         |
-|  7  | The Rabbit Hole         |  EN  | https://therabbithole.libsyn.com/           |
+|  8  | The Rabbit Hole         |  EN  | https://therabbithole.libsyn.com/           |
+|  9  | Rebels Deconstructed    |  EN  | https://open.spotify.com/show/2ni3IHiiqVjpgQkA7lLFc1 |
 
 ## Other podcasts
 
