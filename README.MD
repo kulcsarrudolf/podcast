@@ -8,16 +8,16 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 
 ## My favorites
 
-|  #  | Name                    | Lang | Link                                        |
-| :-: | :---------------------- | :--: | :------------------------------------------ |
-|  1  | Soft Skills Engineering |  EN  | https://softskills.audio/                   |
-|  2  | Yegor Bugayenko         |  EN  | https://soundcloud.com/yegor256             |
-|  3  | Epict React Podcast     |  EN  | https://epicreact.dev/podcast/              |
-|  4  | Simple Programmer       |  EN  | https://simpleprogrammer.libsyn.com/podcast |
-|  5  | Pasztor Janos           |  EN  | https://pasztor.at/podcast/                 |
-|  6  | Bike Shed               |  EN  | https://www.bikeshed.fm/                    |
-|  7  | Stack Overflow Podcast  |  EN  | https://stackoverflow.blog/podcast/         |
-|  8  | The Rabbit Hole         |  EN  | https://therabbithole.libsyn.com/           |
+|  #  | Name                    | Lang | Link                                                 |
+| :-: | :---------------------- | :--: | :--------------------------------------------------- |
+|  1  | Soft Skills Engineering |  EN  | https://softskills.audio/                            |
+|  2  | Yegor Bugayenko         |  EN  | https://soundcloud.com/yegor256                      |
+|  3  | Epict React Podcast     |  EN  | https://epicreact.dev/podcast/                       |
+|  4  | Simple Programmer       |  EN  | https://simpleprogrammer.libsyn.com/podcast          |
+|  5  | Pasztor Janos           |  EN  | https://pasztor.at/podcast/                          |
+|  6  | Bike Shed               |  EN  | https://www.bikeshed.fm/                             |
+|  7  | Stack Overflow Podcast  |  EN  | https://stackoverflow.blog/podcast/                  |
+|  8  | The Rabbit Hole         |  EN  | https://therabbithole.libsyn.com/                    |
 |  9  | Rebels Deconstructed    |  EN  | https://open.spotify.com/show/2ni3IHiiqVjpgQkA7lLFc1 |
 
 ## Other podcasts
