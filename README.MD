@@ -47,5 +47,6 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | 19  | Software Engineering Radio |  EN  | https://se-radio.net                                        |
 | 20  | Codurance Talks            |  EN  | https://www.codurance.com/publications/tag/podcasts         |
 | 21  | AskDeveloper Podcast       |  AR  | https://bit.ly/3aUu4rm                                      |
+| 22  | Engineer Soft Skills       |  EN  | https://spoti.fi/3BEdc4u                                    |
 
 [**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
