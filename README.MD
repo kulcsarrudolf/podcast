@@ -20,6 +20,7 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 |  8  | Rebels Deconstructed     |  EN  | https://open.spotify.com/show/2ni3IHiiqVjpgQkA7lLFc1 |
 |  9  | WorkLife with Adam Grant |  EN  | https://www.adamgrant.net/podcast/                   |
 | 10  | The Tim Ferriss Show     |  EN  | https://tim.blog/podcast/                            |
+| 11  | Beyond the To-Do List    |  EN  | https://beyondthetodolist.com/                       |
 
 ## Other podcasts
 
@@ -34,7 +35,7 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 |  7  | ShopTalk Show              |  EN  | https://shoptalkshow.com/                                   |
 |  8  | No Progress                |  EN  | https://podcasts.apple.com/podcast/no-progress/id1515681912 |
 |  9  | Changelog                  |  EN  | https://changelog.com/master                                |
-|  10 | The Art of Product         |  EN  | https://artofproductpodcast.com/                            |
+| 10  | The Art of Product         |  EN  | https://artofproductpodcast.com/                            |
 | 11  | Front End Happy Hour       |  EN  | https://frontendhappyhour.com/                              |
 | 12  | Chats with Kent            |  EN  | https://kentcdodds.com/chats-with-kent-podcast/             |
 | 13  | .Net Rocks                 |  EN  | https://www.dotnetrocks.com/                                |
