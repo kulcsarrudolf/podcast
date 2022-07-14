@@ -22,6 +22,7 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | 10  | The Tim Ferriss Show     |  EN  | https://tim.blog/podcast/                            |
 | 11  | Beyond the To-Do List    |  EN  | https://beyondthetodolist.com/                       |
 | 11  | StartUp by GIMLET        |  EN  | https://gimletmedia.com/shows/startup                |
+| 12  | Compiler by Red Hat      |  EN  | https://www.redhat.com/en/compiler-podcast           |
 
 ## Other podcasts
 
