@@ -8,21 +8,22 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 
 ## My favorites
 
-|  #  | Name                     | Lang | Link                                                 |
-| :-: | :----------------------- | :--: | :--------------------------------------------------- |
-|  1  | Soft Skills Engineering  |  EN  | https://softskills.audio/                            |
-|  2  | Yegor Bugayenko          |  EN  | https://soundcloud.com/yegor256                      |
-|  3  | Epict React Podcast      |  EN  | https://epicreact.dev/podcast/                       |
-|  4  | Simple Programmer        |  EN  | https://simpleprogrammer.libsyn.com/podcast          |
-|  5  | Bike Shed                |  EN  | https://www.bikeshed.fm/                             |
-|  6  | Stack Overflow Podcast   |  EN  | https://stackoverflow.blog/podcast/                  |
-|  7  | The Rabbit Hole          |  EN  | https://therabbithole.libsyn.com/                    |
-|  8  | Rebels Deconstructed     |  EN  | https://open.spotify.com/show/2ni3IHiiqVjpgQkA7lLFc1 |
-|  9  | WorkLife with Adam Grant |  EN  | https://www.adamgrant.net/podcast/                   |
-| 10  | The Tim Ferriss Show     |  EN  | https://tim.blog/podcast/                            |
-| 11  | Beyond the To-Do List    |  EN  | https://beyondthetodolist.com/                       |
-| 11  | StartUp by GIMLET        |  EN  | https://gimletmedia.com/shows/startup                |
-| 12  | Compiler by Red Hat      |  EN  | https://www.redhat.com/en/compiler-podcast           |
+|  #  | Name                     | Lang | Link                                                  |
+| :-: | :----------------------- | :--: | :---------------------------------------------------- |
+|  1  | Soft Skills Engineering  |  EN  | https://softskills.audio/                             |
+|  2  | Yegor Bugayenko          |  EN  | https://soundcloud.com/yegor256                       |
+|  3  | Epict React Podcast      |  EN  | https://epicreact.dev/podcast/                        |
+|  4  | Simple Programmer        |  EN  | https://simpleprogrammer.libsyn.com/podcast           |
+|  5  | Bike Shed                |  EN  | https://www.bikeshed.fm/                              |
+|  6  | Stack Overflow Podcast   |  EN  | https://stackoverflow.blog/podcast/                   |
+|  7  | The Rabbit Hole          |  EN  | https://therabbithole.libsyn.com/                     |
+|  8  | Rebels Deconstructed     |  EN  | https://open.spotify.com/show/2ni3IHiiqVjpgQkA7lLFc1  |
+|  9  | WorkLife with Adam Grant |  EN  | https://www.adamgrant.net/podcast/                    |
+| 10  | The Tim Ferriss Show     |  EN  | https://tim.blog/podcast/                             |
+| 11  | Beyond the To-Do List    |  EN  | https://beyondthetodolist.com/                        |
+| 11  | StartUp by GIMLET        |  EN  | https://gimletmedia.com/shows/startup                 |
+| 12  | Compiler by Red Hat      |  EN  | https://www.redhat.com/en/compiler-podcast            |
+| 13  | The Diary Of A CEO       |  EN  | https://stevenbartlett.com/the-diary-of-a-ceo-podcast |
 
 ## Other podcasts
 
