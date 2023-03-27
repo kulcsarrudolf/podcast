@@ -20,3 +20,4 @@ Ha ismersz olyan szoftverfejlesztéssel kapcsolatos podcastot ami még nincs raj
 |  8  | DevTales Podcast by Shiwaforce                   |  HU   | https://devtales.shiwaforce.com/                                     |
 |  9  | LifeInTech                                       |  HU   | https://anchor.fm/lifeintech                                         |
 |  10 | KIBERTÁMADÁS! PODCAST                            |  HU   | https://nki.gov.hu/en/podcast/                                       |
+|  11 | Biznisz Boyz                                     |  HU   | https://bizniszboyz.hu/                                              |
