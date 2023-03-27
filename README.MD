@@ -24,6 +24,7 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | 11  | StartUp by GIMLET        |  EN  | https://gimletmedia.com/shows/startup                 |
 | 12  | Compiler by Red Hat      |  EN  | https://www.redhat.com/en/compiler-podcast            |
 | 13  | The Diary Of A CEO       |  EN  | https://stevenbartlett.com/the-diary-of-a-ceo-podcast |
+| 14  | a16z Podcast             |  EN  | https://a16z.simplecast.com/                          |
 
 ## Other podcasts
 
