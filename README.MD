@@ -54,5 +54,6 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | 21  | AskDeveloper Podcast       |  AR  | https://bit.ly/3aUu4rm                                      |
 | 22  | Engineer Soft Skills       |  EN  | https://spoti.fi/3BEdc4u                                    |
 | 23  | Dev Café.                  |  FR  | https://dev-cafe.fr/.                                       |
+| 24  | Select*                    |  EN  | https://www.harperdb.io/blog-categories/podcast             |
 
 [**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
