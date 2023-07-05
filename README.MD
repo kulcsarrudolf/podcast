@@ -26,6 +26,7 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | 13  | The Diary Of A CEO       |  EN  | https://stevenbartlett.com/the-diary-of-a-ceo-podcast |
 | 14  | a16z Podcast             |  EN  | https://a16z.simplecast.com/                          |
 | 15  | Y Combinator             |  EN  | [https://www.ycombinator.com/](https://podcasts.google.com/feed/aHR0cHM6Ly9iYWNrdHJhY2tzLmZtL3ljb21iaW5hdG9yL3ljb21iaW5hdG9yL2ZlZWQ)                        |
+| 16  | Level-up Engineering     |  EN  | https://codingsans.com/engineering-management-podcast |
 
 ## Other podcasts
 
