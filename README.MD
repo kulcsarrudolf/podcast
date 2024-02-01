@@ -26,6 +26,7 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | 14  | Beyond the To-Do List           |  EN  | https://beyondthetodolist.com/                                                                                                       |
 | 15  | Compiler by Red Hat             |  EN  | https://www.redhat.com/en/compiler-podcast                                                                                           |
 | 16  | a16z Podcast                    |  EN  | https://a16z.simplecast.com/                                                                                                         |
+| 17  | MODERN WISDOM PODCAST           |  EN  | https://chriswillx.com/podcast/                                                                                                      |
 
 ## Other podcasts
 
