@@ -13,7 +13,7 @@ Ha ismersz olyan szoftverfejlesztéssel kapcsolatos podcastot ami még nincs raj
 |  1  | Letscode.hu                                      |  HU   | https://shows.acast.com/5aeff6d96eb47cc259946df2/                    |
 |  2  | Anonim Vezetők Klubja                            |  HU   | https://avkpodcast.hu/                                               |
 |  3  | Minicube                                         |  HU   | https://shows.acast.com/minicube/                                    |
-|  4  | Random Generátor podcast                         |  HU   | https://www.randomgenerator.hu/                                      |
+|  4  | HWSW Podcast                                     |  HU   | https://www.hwsw.hu/podcasts                                         |
 |  5  | Hunglish - A világjáró programozók podcast-je    |  HU   | https://anchor.fm/hunglish                                           |
 |  6  | Szoftverfejlesztés és Önfejlesztés               |  HU   | https://careercompass.hu/podcast/                                    |
 |  7  | Fejlesztő lány                                   |  HU   | https://soundcloud.com/user-107922785                                |
@@ -23,3 +23,4 @@ Ha ismersz olyan szoftverfejlesztéssel kapcsolatos podcastot ami még nincs raj
 |  11 | LifeInTech                                       |  HU   | https://anchor.fm/lifeintech                                         |
 |  12 | KIBERTÁMADÁS! PODCAST                            |  HU   | https://nki.gov.hu/en/podcast/                                       |
 |  13 | Biznisz Boyz                                     |  HU   | https://bizniszboyz.hu/                                              |
+|  14 | Random Generátor podcast                         |  HU   | https://www.randomgenerator.hu/                                      |
