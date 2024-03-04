@@ -12,21 +12,22 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | :-: | :------------------------------ | :--: | :----------------------------------------------------------------------------------------------------------------------------------- |
 |  1  | Soft Skills Engineering         |  EN  | https://softskills.audio/                                                                                                            |
 |  2  | Level-up Engineering            |  EN  | https://codingsans.com/engineering-management-podcast                                                                                |
-|  3  | StartUp by GIMLET               |  EN  | https://gimletmedia.com/shows/startup                                                                                                |
-|  4  | Y Combinator                    |  EN  | [https://www.ycombinator.com/](https://podcasts.google.com/feed/aHR0cHM6Ly9iYWNrdHJhY2tzLmZtL3ljb21iaW5hdG9yL3ljb21iaW5hdG9yL2ZlZWQ) |
-|  5  | Simple Programmer               |  EN  | https://simpleprogrammer.libsyn.com/podcast                                                                                          |
-|  6  | Stack Overflow Podcast          |  EN  | https://stackoverflow.blog/podcast/                                                                                                  |
-|  7  | A Bit of Optimism w Simon Sinek |  EN  | https://simonsinek.com/podcast/                                                                                                      |
-|  8  | WorkLife with Adam Grant        |  EN  | https://www.adamgrant.net/podcast/                                                                                                   |
-|  9  | Epict React Podcast             |  EN  | https://epicreact.dev/podcast/                                                                                                       |
-| 10  | The Diary Of A CEO              |  EN  | https://stevenbartlett.com/the-diary-of-a-ceo-podcast                                                                                |
-| 11  | Bike Shed                       |  EN  | https://www.bikeshed.fm/                                                                                                             |
-| 12  | The Rabbit Hole                 |  EN  | https://therabbithole.libsyn.com/                                                                                                    |
-| 13  | The Tim Ferriss Show            |  EN  | https://tim.blog/podcast/                                                                                                            |
-| 14  | Beyond the To-Do List           |  EN  | https://beyondthetodolist.com/                                                                                                       |
-| 15  | Compiler by Red Hat             |  EN  | https://www.redhat.com/en/compiler-podcast                                                                                           |
-| 16  | a16z Podcast                    |  EN  | https://a16z.simplecast.com/                                                                                                         |
-| 17  | MODERN WISDOM PODCAST           |  EN  | https://chriswillx.com/podcast/                                                                                                      |
+|  4  | Zero To Million SaaS Podcast    |  EN  | https://www.zerotomillionsaas.com/                                                                                                   |
+|  5  | StartUp by GIMLET               |  EN  | https://gimletmedia.com/shows/startup                                                                                                |
+|  6  | Y Combinator                    |  EN  | [https://www.ycombinator.com/](https://podcasts.google.com/feed/aHR0cHM6Ly9iYWNrdHJhY2tzLmZtL3ljb21iaW5hdG9yL3ljb21iaW5hdG9yL2ZlZWQ) |
+|  7  | Simple Programmer               |  EN  | https://simpleprogrammer.libsyn.com/podcast                                                                                          |
+|  8  | Stack Overflow Podcast          |  EN  | https://stackoverflow.blog/podcast/                                                                                                  |
+|  9  | A Bit of Optimism w Simon Sinek |  EN  | https://simonsinek.com/podcast/                                                                                                      |
+| 10  | WorkLife with Adam Grant        |  EN  | https://www.adamgrant.net/podcast/                                                                                                   |
+| 11  | Epict React Podcast             |  EN  | https://epicreact.dev/podcast/                                                                                                       |
+| 12  | The Diary Of A CEO              |  EN  | https://stevenbartlett.com/the-diary-of-a-ceo-podcast                                                                                |
+| 13  | Bike Shed                       |  EN  | https://www.bikeshed.fm/                                                                                                             |
+| 14  | The Rabbit Hole                 |  EN  | https://therabbithole.libsyn.com/                                                                                                    |
+| 15  | The Tim Ferriss Show            |  EN  | https://tim.blog/podcast/                                                                                                            |
+| 16  | Beyond the To-Do List           |  EN  | https://beyondthetodolist.com/                                                                                                       |
+| 17  | Compiler by Red Hat             |  EN  | https://www.redhat.com/en/compiler-podcast                                                                                           |
+| 18  | a16z Podcast                    |  EN  | https://a16z.simplecast.com/                                                                                                         |
+| 19  | MODERN WISDOM PODCAST           |  EN  | https://chriswillx.com/podcast/                                                                                                      |
 
 ## Other podcasts
 
