@@ -8,24 +8,28 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 
 ## My favorites
 
-|  #  | Name                     | Lang | Link                                                  |
-| :-: | :----------------------- | :--: | :---------------------------------------------------- |
-|  1  | Soft Skills Engineering  |  EN  | https://softskills.audio/                             |
-|  2  | Yegor Bugayenko          |  EN  | https://soundcloud.com/yegor256                       |
-|  3  | Epict React Podcast      |  EN  | https://epicreact.dev/podcast/                        |
-|  4  | Simple Programmer        |  EN  | https://simpleprogrammer.libsyn.com/podcast           |
-|  5  | Bike Shed                |  EN  | https://www.bikeshed.fm/                              |
-|  6  | Stack Overflow Podcast   |  EN  | https://stackoverflow.blog/podcast/                   |
-|  7  | The Rabbit Hole          |  EN  | https://therabbithole.libsyn.com/                     |
-|  8  | Rebels Deconstructed     |  EN  | https://open.spotify.com/show/2ni3IHiiqVjpgQkA7lLFc1  |
-|  9  | WorkLife with Adam Grant |  EN  | https://www.adamgrant.net/podcast/                    |
-| 10  | The Tim Ferriss Show     |  EN  | https://tim.blog/podcast/                             |
-| 11  | Beyond the To-Do List    |  EN  | https://beyondthetodolist.com/                        |
-| 11  | StartUp by GIMLET        |  EN  | https://gimletmedia.com/shows/startup                 |
-| 12  | Compiler by Red Hat      |  EN  | https://www.redhat.com/en/compiler-podcast            |
-| 13  | The Diary Of A CEO       |  EN  | https://stevenbartlett.com/the-diary-of-a-ceo-podcast |
-| 14  | a16z Podcast             |  EN  | https://a16z.simplecast.com/                          |
-| 15  | Y Combinator             |  EN  | [https://www.ycombinator.com/](https://podcasts.google.com/feed/aHR0cHM6Ly9iYWNrdHJhY2tzLmZtL3ljb21iaW5hdG9yL3ljb21iaW5hdG9yL2ZlZWQ)                        |
+|  #  | Name                            | Lang | Link                                                                                                                                 |
+| :-: | :------------------------------ | :--: | :----------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Soft Skills Engineering         |  EN  | https://softskills.audio/                                                                                                            |
+|  2  | Level-up Engineering            |  EN  | https://codingsans.com/engineering-management-podcast                                                                                |
+|  3  | Zero To Million SaaS Podcast    |  EN  | https://www.zerotomillionsaas.com/                                                                                                   |
+|  4  | StartUp by GIMLET               |  EN  | https://gimletmedia.com/shows/startup                                                                                                |
+|  5  | Y Combinator                    |  EN  | [https://www.ycombinator.com/](https://podcasts.google.com/feed/aHR0cHM6Ly9iYWNrdHJhY2tzLmZtL3ljb21iaW5hdG9yL3ljb21iaW5hdG9yL2ZlZWQ) |
+|  6  | Simple Programmer               |  EN  | https://simpleprogrammer.libsyn.com/podcast                                                                                          |
+|  7  | Stack Overflow Podcast          |  EN  | https://stackoverflow.blog/podcast/                                                                                                  |
+|  8  | A Bit of Optimism w Simon Sinek |  EN  | https://simonsinek.com/podcast/                                                                                                      |
+|  9  | WorkLife with Adam Grant        |  EN  | https://www.adamgrant.net/podcast/                                                                                                   |
+| 10  | Epict React Podcast             |  EN  | https://epicreact.dev/podcast/                                                                                                       |
+| 11  | The Diary Of A CEO              |  EN  | https://stevenbartlett.com/the-diary-of-a-ceo-podcast                                                                                |
+| 12  | Bike Shed                       |  EN  | https://www.bikeshed.fm/                                                                                                             |
+| 13  | The Rabbit Hole                 |  EN  | https://therabbithole.libsyn.com/                                                                                                    |
+| 14  | The Tim Ferriss Show            |  EN  | https://tim.blog/podcast/                                                                                                            |
+| 15  | Beyond the To-Do List           |  EN  | https://beyondthetodolist.com/                                                                                                       |
+| 16  | Compiler by Red Hat             |  EN  | https://www.redhat.com/en/compiler-podcast                                                                                           |
+| 17  | a16z Podcast                    |  EN  | https://a16z.simplecast.com/                                                                                                         |
+| 18  | MODERN WISDOM PODCAST           |  EN  | https://chriswillx.com/podcast/                                                                                                      |
+| 19  | Select*                         |  EN  | https://www.harperdb.io/blog-categories/podcast                                                                                      |
+
 
 ## Other podcasts
 
@@ -54,6 +58,7 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | 21  | AskDeveloper Podcast       |  AR  | https://bit.ly/3aUu4rm                                      |
 | 22  | Engineer Soft Skills       |  EN  | https://spoti.fi/3BEdc4u                                    |
 | 23  | Dev Café.                  |  FR  | https://dev-cafe.fr/.                                       |
-| 24  | Select*                    |  EN  | https://www.harperdb.io/blog-categories/podcast             |
+| 24  | Rebels Deconstructed       |  EN  | https://open.spotify.com/show/2ni3IHiiqVjpgQkA7lLFc1        |
+| 25  | Yegor Bugayenko            |  EN  | https://soundcloud.com/yegor256                             |
 
 [**Hungarian Podcasts List:**](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD) [MAGYAR.md](https://github.com/kulcsarrudolf/podcast/blob/master/MAGYAR.MD)
