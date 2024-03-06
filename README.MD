@@ -28,6 +28,8 @@ If your favorite podcast is not on the list or if you have any suggestion, feel 
 | 16  | Compiler by Red Hat             |  EN  | https://www.redhat.com/en/compiler-podcast                                                                                           |
 | 17  | a16z Podcast                    |  EN  | https://a16z.simplecast.com/                                                                                                         |
 | 18  | MODERN WISDOM PODCAST           |  EN  | https://chriswillx.com/podcast/                                                                                                      |
+| 19  | Select*                         |  EN  | https://www.harperdb.io/blog-categories/podcast                                                                                      |
+
 
 ## Other podcasts
 
