@@ -10,17 +10,19 @@ Ha ismersz olyan szoftverfejlesztéssel kapcsolatos podcastot ami még nincs raj
 
 ### Aktív podcastok
 
-|  #  | Név                                | Nyelv | Link                                             |
-| :-: | ---------------------------------- | :---: | :----------------------------------------------- |
-|  1  | Anonim Vezetők Klubja              |  HU   | https://avkpodcast.hu/                           |
-|  2  | HWSW Podcast                       |  HU   | https://www.hwsw.hu/podcasts                     |
-|  3  | Follow the Pattern                 |  HU   | https://www.youtube.com/@FollowThePattern/videos |
-|  4  | Adatépítész                        |  HU   | http://adatepitesz.hu/                           |
-|  5  | Hack & Lángos                      |  HU   | https://hackeslangos.show/                       |
-|  6  | LifeInTech                         |  HU   | https://anchor.fm/lifeintech                     |
-|  7  | Szoftverfejlesztés és Önfejlesztés |  HU   | https://careercompass.hu/podcast/                |
-|  8  | KIBERTÁMADÁS! PODCAST              |  HU   | https://nki.gov.hu/en/podcast/                   |
-|  9  | Random Generátor podcast           |  HU   | https://www.randomgenerator.hu/                  |
+|  #  | Név                                           | Nyelv | Link                                              |
+| :-: | --------------------------------------------- | :---: | :------------------------------------------------ |
+|  1  | Anonim Vezetők Klubja                         |  HU   | https://avkpodcast.hu/                            |
+|  2  | HWSW Podcast                                  |  HU   | https://www.hwsw.hu/podcasts                      |
+|  3  | Katalizátor Podcast                           |  HU   | https://www.youtube.com/c/Kataliz%C3%A1torPodcast |
+|  4  | Hack & Lángos                                 |  HU   | https://hackeslangos.show/                        |
+|  5  | Tűzfalak mögött - Háttérsztorik IT vezetőkkel |  HU   | https://www.youtube.com/@SuperiorPentestPodcast   |
+|  6  | Follow the Pattern                            |  HU   | https://www.youtube.com/@FollowThePattern         |
+|  7  | Adatépítész                                   |  HU   | http://adatepitesz.hu/                            |
+|  8  | LifeInTech                                    |  HU   | https://anchor.fm/lifeintech                      |
+|  9  | Szoftverfejlesztés és Önfejlesztés            |  HU   | https://careercompass.hu/podcast/                 |
+| 10  | KIBERTÁMADÁS! PODCAST                         |  HU   | https://nki.gov.hu/en/podcast/                    |
+| 11  | Random Generátor podcast                      |  HU   | https://www.randomgenerator.hu/                   |
 
 ### Inaktív podcastok
 
